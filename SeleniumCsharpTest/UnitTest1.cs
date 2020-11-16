@@ -28,7 +28,8 @@ namespace SeleniumCsharpTest
             //unknown checkbox
             driver.FindElement(By.XPath("//input[@name='ctl00$ContentPlaceHolder1$ChildMeal1']/following-sibling::div[text()='Celery']")).Click();
 
-             
+            var a = 1;
+            var b = 2;
 
             Assert.Pass();
         }
