@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\risprocess\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\risprocess\\.nuget\\packages"
+    ]
+  }
+}
